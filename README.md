@@ -28,7 +28,7 @@ REDIRECT_URL=https://google.com
 git clone git@github.com:SaraVieira/micro-netlify.git
 ```
 
-Move `.env.example` to `.env` and fill in your GitHub API details and redirect url
+Move `.env.example` to `.env` and fill in your Netlify API details and redirect url
 
 ```sh
 npm run dev
